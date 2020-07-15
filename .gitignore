@@ -1,0 +1,7 @@
+.idea/
+.venv/
+*.egg-info/
+__pycache__
+.vscode/
+Makefile
+requirements.txt
