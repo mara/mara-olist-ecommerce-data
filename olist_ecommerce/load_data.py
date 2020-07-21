@@ -9,7 +9,7 @@ from olist_ecommerce import config
 ECOMMERCE_TABLES = ['ecommerce.customers', 'ecommerce.geolocation', 'ecommerce.order_items',
                     'ecommerce.order_payments',
                     'ecommerce.order_reviews', 'ecommerce.orders', 'ecommerce.products',
-                    'ecommerce.sellers', 'ecommerce.product_category_name_translation']
+                    'ecommerce.sellers', 'ecommerce.product_category_name_translations']
 
 MARKETING_TABLES = ['marketing.closed_deals', 'marketing.marketing_qualified_leads']
 

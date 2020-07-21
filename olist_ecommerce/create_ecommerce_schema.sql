@@ -107,7 +107,7 @@ CREATE TABLE ecommerce.sellers
 );
 
 --Translates the product_category_name to english.
-DROP TABLE IF EXISTS ecommerce.product_category_name_translation CASCADE;
+DROP TABLE IF EXISTS ecommerce.product_category_name_translations CASCADE;
 CREATE TABLE ecommerce.product_category_name_translation
 (
     product_category_name         TEXT, --category name in Portuguese
